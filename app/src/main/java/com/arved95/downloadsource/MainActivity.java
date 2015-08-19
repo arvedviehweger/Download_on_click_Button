@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     public static final int progress_bar_type = 0;
 
     // File url to download
-    private static String file_url = "http://api.androidhive.info/progressdialog/hive.jpg";
+    private static String file_url = "http://atlantis-network.orgfree.com/images/haimann951.jpg";
 
     ImageView my_image;
 
